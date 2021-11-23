@@ -1,0 +1,5 @@
+-buy sugar
+-buy bread
+-buy milk
+-buy diapers
+-buy salt
